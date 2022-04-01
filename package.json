@@ -1,5 +1,5 @@
 {
-  "name": "adaptive",
+  "name": "rem-adaptive",
   "version": "1.0.0",
   "description": "自适应页面像素",
   "keywords": [
@@ -10,6 +10,7 @@
     "rem",
     "adaptive"
   ],
+  "main":"index.min.js",
   "homepage": "https://github.com/idler8/adaptive",
   "repository": {
     "type": "git",
