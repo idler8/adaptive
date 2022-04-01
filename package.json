@@ -1,0 +1,30 @@
+{
+  "name": "adaptive",
+  "version": "1.0.0",
+  "description": "自适应页面像素",
+  "keywords": [
+    "lib",
+    "flexible",
+    "mobile",
+    "css",
+    "rem",
+    "adaptive"
+  ],
+  "homepage": "https://github.com/idler8/adaptive",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:idler8/adaptive.git"
+  },
+  "author": {
+    "name": "idler8",
+    "email": "code@idler8.com"
+  },
+  "scripts": {
+    "build": "uglifyjs index.js -o index.min.js -c -m"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.15.3"
+  },
+  "license": "MIT"
+}
